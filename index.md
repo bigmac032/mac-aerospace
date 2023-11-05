@@ -12,6 +12,7 @@
 ### OOGASTEERS (thrust-vectoring rocket)
 #### Overview:
 Thrust-vectoring rocket using PID control and data filtering(E)
+![Thrust Vector Control Mount](Proto_Mount.jpg "Prototye TVC_Mount")
 #### Skills used:
 CAD (NX, Fusion360), PCB Design (Fusion360), Metal lathing/ milling, Arduino, OpenRocket
 Eventually (E): Matlab, Simulink
