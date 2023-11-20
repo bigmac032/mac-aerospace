@@ -13,6 +13,9 @@
 ### OOGASTEERS (thrust-vectoring rocket)
 #### Overview:
 Thrust-vectoring rocket using PID and data filtering(E) to control pitch and yaw.
+
+[full documentation of project](https://drive.google.com/drive/folders/1yYzyjm_S6zjatMbEUjDS53o8nvdMpoC6?usp=sharing)
+
 ![Thrust Vector Control Mount](Proto_Mount.jpg "Prototye TVC_Mount")
 #### Skills used:
 CAD (NX, Fusion360), PCB Design (Fusion360), 
